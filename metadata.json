@@ -1,0 +1,6 @@
+{
+  "name": "Java Mükemmel Sayı Bulucu - Enes Öztürk",
+  "description": "Klavyeden girilen sayının mükemmel sayı olup olmadığını test eden interaktif Java programı ve simülatörü. Enes Öztürk imzalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
